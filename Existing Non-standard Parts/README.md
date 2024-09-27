@@ -3,17 +3,15 @@ These parts are created by measurement with a caliper, expect a generally 0.1-0.
 ## Precise and less precise
 Some measurements are not done either due to they are not important or they are both not important and hard to measure
 Dimension that is actually precise
-| Dimension                              |
-|----------------------------------------|
-| Acrylic Parts                          |
+| Dimension - Acrylic Parts              |
 |----------------------------------------|
 | Width                                  |
 | Hole Size                              |
 | Short Flange Length                    |
 | Hole distance to each other            |
 | Hole distance to the non-bend edges    |
-|----------------------------------------|
-| Camera Holder                          |
+
+| Dimension - Camera Holder              |
 |----------------------------------------|
 | Bottom plate width                     |
 | Bottom plate length                    |

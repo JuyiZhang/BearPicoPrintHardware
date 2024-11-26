@@ -1,0 +1,234 @@
+﻿STEP to UG
+! INFO-     NX STEP AP214 - V2406.1700
+! INFO-      
+! INFO-     Start of Translation: 18-NOV-2024  2:13:19 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\arkr\Documents\PicoPrinter\Reference\Setup\Dispenser\Electrosteering Head v2.step
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        Electrosteering Head v2.step
+! SUMMARY-  Date             2024-11-18T13:47:22-08:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v20
+! SUMMARY-  Orig_System      Autodesk Translation Framework v13.20.0.188
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:    228
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:    450
+! SUMMARY-  b_spline_curve_with_knots ..................................:      8
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:      3
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:      3
+! SUMMARY-  cartesian_point ............................................:   1964
+! SUMMARY-  circle .....................................................:    178
+! SUMMARY-  closed_shell ...............................................:      9
+! SUMMARY-  conical_surface ............................................:      8
+! SUMMARY-  context_dependent_shape_representation .....................:     21
+! SUMMARY-  cylindrical_surface ........................................:     96
+! SUMMARY-  direction ..................................................:   1266
+! SUMMARY-  edge_curve .................................................:    569
+! SUMMARY-  edge_loop ..................................................:    291
+! SUMMARY-  ellipse ....................................................:     14
+! SUMMARY-  face_bound .................................................:     63
+! SUMMARY-  face_outer_bound ...........................................:    228
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     13
+! SUMMARY-  item_defined_transformation ................................:     21
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:    366
+! SUMMARY-  manifold_solid_brep ........................................:      9
+! SUMMARY-  next_assembly_usage_occurrence .............................:     21
+! SUMMARY-  oriented_edge ..............................................:   1138
+! SUMMARY-  plane ......................................................:    121
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:     12
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:     12
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation ...............................:     12
+! SUMMARY-  product_definition_shape ...................................:     33
+! SUMMARY-  product_related_product_category ...........................:     12
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:     21
+! SUMMARY-  shape_representation .......................................:     12
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     13
+! SUMMARY-  vector .....................................................:    366
+! SUMMARY-  vertex_point ...............................................:    370
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                           7957
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 18-NOV-2024 2:13:19 PM
+! STATUS-    
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! INFO-     Scaling data from metre to millimetre may prevent import of data which is beyond millimetre NX part bounding box 
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-NOV-2024  2:13:21 PM
+! INFO-     Filing Part ..: C:\Users\arkr\Documents\PicoPrinter\Reference\Setup\Dispenser\Part 1 (6)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-NOV-2024  2:13:21 PM
+! INFO-     Filing Part ..: C:\Users\arkr\Documents\PicoPrinter\Reference\Setup\Dispenser\Part 1 (8)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-NOV-2024  2:13:21 PM
+! INFO-     Filing Part ..: C:\Users\arkr\Documents\PicoPrinter\Reference\Setup\Dispenser\Part 1 (7)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-NOV-2024  2:13:22 PM
+! INFO-     Filing Part ..: C:\Users\arkr\Documents\PicoPrinter\Reference\Setup\Dispenser\Cartridge
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-NOV-2024  2:13:22 PM
+! INFO-     Filing Part ..: C:\Users\arkr\Documents\PicoPrinter\Reference\Setup\Dispenser\Hex socket countersunk head screw M3x0.5 x 10
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              0
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-NOV-2024  2:13:22 PM
+! INFO-     Filing Part ..: C:\Users\arkr\Documents\PicoPrinter\Reference\Setup\Dispenser\Hex socket head cap screw M6x1.00 x 30
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              0
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-NOV-2024  2:13:22 PM
+! INFO-     Filing Part ..: C:\Users\arkr\Documents\PicoPrinter\Reference\Setup\Dispenser\Part 1 (5)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-NOV-2024  2:13:22 PM
+! INFO-     Filing Part ..: C:\Users\arkr\Documents\PicoPrinter\Reference\Setup\Dispenser\Part 1 (4)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-NOV-2024  2:13:22 PM
+! INFO-     Filing Part ..: C:\Users\arkr\Documents\PicoPrinter\Reference\Setup\Dispenser\Part 1 (3)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-NOV-2024  2:13:22 PM
+! INFO-     Filing Part ..: C:\Users\arkr\Documents\PicoPrinter\Reference\Setup\Dispenser\Part 1 (2)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-NOV-2024  2:13:22 PM
+! INFO-     Filing Part ..: C:\Users\arkr\Documents\PicoPrinter\Reference\Setup\Dispenser\Part 1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 18-NOV-2024  2:13:22 PM
+! INFO-     Filing Part ..: C:\Users\arkr\Documents\PicoPrinter\Reference\Setup\Dispenser\Electrosteering Head v2_step.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    21
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             21
+! INFO-      
+! INFO-     Total number of solids input for this translation       :         9
+! INFO-      
+! INFO-     Number of solids created without body validation faults :         9
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 18-NOV-2024  2:13:23 PM
+! INFO-      
